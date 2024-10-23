@@ -35,7 +35,7 @@ Before running the projects, ensure you have Docker installed:
 To clone this repository, use the following command:
 
 ```bash
-git clone https://github.com/yourusername/Docker-for-DevOps.git
+git clone https://github.com/iemafzalhassan/Docker-for-DevOps.git
 cd Docker-for-DevOps
 ```
 
