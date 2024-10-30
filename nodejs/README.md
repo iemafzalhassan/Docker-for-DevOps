@@ -20,11 +20,11 @@ Before you begin, ensure you have the following installed on your machine:
 Start by cloning this repository to your local machine:
 
 ```bash
-git clone https://github.com/iemafzalhassan/docker_for_devops.git
+git clone https://github.com/iemafzalhassan/Docker_for_DevOps.git
 ```
 
 ```bash
-cd docker-for-devops
+cd Docker_for_DevOps
 ```
 
 ### Build the Docker Image
