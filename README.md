@@ -1,3 +1,10 @@
+[![Stars](https://img.shields.io/github/stars/iemafzalhassan/Docker-for-DevOps)](https://github.com/iemafzalhassan/Docker-for-DevOps)
+![Docker Image](https://img.shields.io/github/forks/iemafzalhassan/docker-for-devops)
+[![GitHub Profile](https://img.shields.io/badge/GitHub-iemafzalhassan-blue?logo=github&style=flat)](https://github.com/iemafzalhassan)
+
+
+---
+
 # Docker for DevOps 🚀
 
 Welcome to **Docker for DevOps**! This repository contains Dockerized projects specifically designed for DevOps workflows. Each project is organized with its own Dockerfile and configuration, showcasing different use cases for Docker in a DevOps environment. From simple apps to complex microservices, this repo will help you learn and implement Docker best practices.
