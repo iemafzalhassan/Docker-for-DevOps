@@ -1,6 +1,7 @@
-[![Stars](https://img.shields.io/github/stars/iemafzalhassan/Docker-for-DevOps)](https://github.com/iemafzalhassan/Docker-for-DevOps)
-![Docker Image](https://img.shields.io/github/forks/iemafzalhassan/docker-for-devops)
 [![GitHub Profile](https://img.shields.io/badge/GitHub-iemafzalhassan-blue?logo=github&style=flat)](https://github.com/iemafzalhassan)
+![Docker Image](https://img.shields.io/github/forks/iemafzalhassan/docker-for-devops)
+[![Stars](https://img.shields.io/github/stars/iemafzalhassan/Docker-for-DevOps)](https://github.com/iemafzalhassan/Docker-for-DevOps)
+![GitHub last commit](https://img.shields.io/github/last-commit/iemafzalhassan/docker-for-devops?color=red)
 
 
 ---
